@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to His Excellency the Lord General Monk containing the instrumental causes of the ruine of governments and Common-wealths, with as advertisement of our present danger by a forrein invasion.</title>
+            <author>Maudit, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88960</idno>
+            <idno type="STC">Wing M1329</idno>
+            <idno type="STC">Thomason E1016_12</idno>
+            <idno type="STC">ESTC R208273</idno>
+            <idno type="EEBO-CITATION">99867234</idno>
+            <idno type="PROQUEST">99867234</idno>
+            <idno type="VID">168789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88960)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168789)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1016[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to His Excellency the Lord General Monk containing the instrumental causes of the ruine of governments and Common-wealths, with as advertisement of our present danger by a forrein invasion.</title>
+                  <author>Maudit, John.</author>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed on p. 7: John Maudit.</note>
+                  <note>Annotation on Thomason copy: "March. 6. 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:168789:1" rendition="simple:additions"/>
+            <head>A LETTER TO HIS EXCELLENCY THE Lord General MONK
+<hi>CONTAINING</hi> The inſtrumental Cauſes of the ruine of Go<g ref="char:EOLhyphen"/>vernments and Common-wealths, with an Advertiſement of our preſent danger by a forrein Invaſion.</head>
+            <opener>
+               <salute>May it pleaſe your Exccellency,</salute>
+            </opener>
+            <p>THE true affection and high Honour I have for you amongſt other your Countrey men, that deſire your chiefeſt good, and re<g ref="char:EOLhyphen"/>joyce with you in the late happy ſucceſs God hath magnified you with before his people, gives me this confidence for a humble addreſs in thoſe papers, which were printed laſt year, <hi>January</hi> 1658. they being a few ſudden Notes drawn up at
+<pb n="2" facs="tcp:168789:2"/>that time upon conference with ſome
+<hi>London</hi> Divines, to give timely warning of the great Diſpleaſure of God that hang over our heads; and had our friends then in place and power conſidered of them, and adviſed with godly faithfull Miniſters, what to do in a caſe of this importance, ruine had not come upon them ſo inevitably and ſuddenly. For your Excellency knows well, what great alternations of Government, and turning of things upſide down, have been within the ſpace of this laſt year in the land, very terrible in our eyes. Theſe papers will acquaint your Excellency what great danger the Church of God &amp; this State is in at this time, which every days experience more and more confirms the truth of: and ſince the impreſſion of theſe papers Dr.
+<hi>Reynolds</hi> hath lately put ſorth a Sermon of his upon the ſame Subject <hi>of Church-De<g ref="char:EOLhyphen"/>ſertion,</hi> whoſe Judgement in the caſe is much to be reve<g ref="char:EOLhyphen"/>renced.</p>
+            <p>I do humbly beg your Chriſtian peruſal of them, and if God ſhall make your Excellency inſtrumental to ſo high and noble a work, as the advancement of the Goſpel, true Religion, and the pure Worſhip of God is (which is ſo baſely oppreſt in our dayes) you will be very happy; for God will ſurely honout thoſe that honour him: and you, and this people ſhall find, that nothing doth promote the Peace, Plenty, Security, and flouriſhing eſtate of the Land, then Zeal and Forwardneſs to haſten the work of Gods houſe, which he calls for. So ſayes God by his Prophet
+<hi>Hag<g ref="char:EOLhyphen"/>gai,</hi> when he called the people to the building of the Tem<g ref="char:EOLhyphen"/>ple,
+<hi>In this place will I give Peace,</hi>
+               <note place="margin">Hag. 2.9.</note>
+               <hi>ſaith the Lord of Hoſts,</hi> that is, upon this work of building my houſe, and ſet<g ref="char:EOLhyphen"/>ting up my pure worſhip: you ſhall find, I will give you peac and eſtabliſhment, and not otherwiſe. I will add a lit<g ref="char:EOLhyphen"/>tle to what I have ſaid upon the caſe, with your Ho<g ref="char:EOLhyphen"/>nours good leave, to evince the great hazard we are in, if it be not inſtantly prevented. Common-wealths and Na<g ref="char:EOLhyphen"/>tions are brought to ruine by two ſorts of cauſes, ſome in<g ref="char:EOLhyphen"/>trinſecal, ſome extrinſecal. As all the works of nature are ruined in like ſort, either by cauſes that are within them, or that are without them. So we ſee a houſe falls either by the <pb n="3" facs="tcp:168789:2"/>rottenneſs of the plates and timber-work that decay within, or by high windes, or fire that aſſault it from without: In like manner it is with States and Governments in this world, they come to ruine by means of diſtempers in their own bowels, or by the force of forrein Invaders. We have wofull experience of the one, God grant we find not at length the miſchief of the other.</p>
+            <p>Internal active cauſes of the ruine of Governments, are,</p>
+            <p n="1">1. <hi>Sedition</hi> amongſt the great ones ſtriving for maſtery, or conſpiring againſt thoſe that have the Rule.</p>
+            <p>A ſecond is <hi>Tumults</hi> of the diſcontented multitude, grieved with the burthen of heavy Taxes, loſs of Trade, and cruell Oppreſſions.</p>
+            <p>A third is a phanatick <hi>ſpirit,</hi> or ignorant impetuous zeal in factions of Religion, which hath in many ages proved pernicious to Church and Common-wealth.</p>
+            <p>A fourth is <hi>Civil Wars,</hi> as ſaith the Lord by the Prophet <hi>Haggai, I will ſhake the heavens and the earth,</hi>
+               <note place="margin">Hag. 2.22.</note> 
+               <hi>and I will o<g ref="char:EOLhyphen"/>verthrow the Throne of Kingdomes, and I will deſtroy the ſtrength of the Kingdomes of the heathen, and I will over<g ref="char:EOLhyphen"/>throw the Chariots, and thoſe that ride in them and the horſes, and their Riders ſhall come down, every one by the ſword of his bro<g ref="char:EOLhyphen"/>ther.</hi> And again, the Prophet <hi>Iſaiah, Through the wrath of the Lord of Hoſts is the land darkened, and the people ſhall be as the fuel of the fire, no man ſhall ſpare his brother.</hi>
+               <note place="margin">Iſa.
+9.19, 20, 21</note> 
+               <hi>And he ſhall ſnatch on the right hand and be hungry, and he ſhall eat on the left hand, and they ſhall not be ſatisfied: they ſhall eat every man the fleſh of his own arm;</hi> Manaſſeh Ephraim, <hi>and</hi> Ephraim Manſſeh: <hi>and they to<g ref="char:EOLhyphen"/>gether ſhall be againſh</hi> Judah: <hi>for all this, his anger is not turned away, but his hand is ſtretched out ſtill.</hi>
+            </p>
+            <p>By theſe cruel Tallons God in Judgement pulls down Governors and people, when both are wicked, corrupt and rebellious againſt God, provoking him to do Juſtice upon them to their confuſion.</p>
+            <p>My Lord, you have ſeen with your eyes in theſe few late years of ours, how buſie theſe Inſtuments have been in <pb n="4" facs="tcp:168789:3"/>this Nation to bring it to a general ruine: God hath called you forth now at a time when the laſt ſcene is abroad, the laſt blowes of divine vengeance are ready to batter all in peeces, though the generality dream not of their dan<g ref="char:EOLhyphen"/>ger: for it is Gods uſual courſe, upon the impenitency of a Nation, to go from one heavy Judgement to another till he hath utterly deſtroyed all, by giving up his people into captivity, and bringing upon them Forrein Nations to devour them: and this is the other extrinſecal cauſe of the ruine of Nations.</p>
+            <p>When forrein Nations are through Gods juſt Judgement called in upon them, then comes utter ruine.</p>
+            <p>Now whether our danger after all our former Calamities be ſuch, let your Excellency draw up the conjecture from theſe Prognoſticks.</p>
+            <p>Firſt, When God greatens our adverſaries, and makes them more potent then afore: For when our enemies have malice enough and power enough to do us miſchief, then have we cauſe to fear them, for God hath ſtrengthned them againſt us, as he ſtrengthned the <hi>Aſſyrian</hi> againſt
+<hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> Iſa. 10.56.</p>
+            <p>And now hath not <hi>Rome</hi> made her ſelf ſtronge enough to the work, by the aſſociation of thoſe two Crowns of <hi>France</hi> and
+<hi>Spain,</hi> and combination of all popiſh Princes? What think we, is the ſecret drift of that Conclave and bloody-ſlaughter-houſe (as we have found it) but to uſe the Ar<g ref="char:EOLhyphen"/>mies of thoſe Princes to overturn the reformed Churches, eſpecially this of <hi>England?</hi> there was a time when they had will to hurt us but no power, in the Armado and Pow<g ref="char:EOLhyphen"/>der-plot, but now alas they have too much both Will and Power, as the letters of Forrein Agents forewarn us.</p>
+            <p>A ſecond ground of conjecture is from our implacable domeſtick Conteſts, which have continued now theſe 20. years, and it hath been the uſual concluſion of the wiſeſt States-men, That when a people are wearied with home-bred long Conteſts, then a Forreiner may break in with good ſucceſs and carry all; as <hi>Malvezzi</hi> obſerves well of
+<hi>Greece,</hi> that when it was wearied with civil diſſentions, then For<g ref="char:EOLhyphen"/>reiners uſually made it a prey.</p>
+            <pb n="5" facs="tcp:168789:3"/>
+            <p>May not our danger be concluded from hence alſo? eſpe<g ref="char:EOLhyphen"/>cially if we conſider a third ground for the conjecture.</p>
+            <p>And that is, when Forreiners carry before them a pretence or title for their juſt invaſion.</p>
+            <p>Such was the policy of <hi>Amurath</hi> going to deſtroy the King of the <hi>Tartars,</hi> he took with him <hi>Iſlan</hi> brother of that King in the head of his Army, and by his preſence the people of the Country more eaſily ſubmitted to the Con<g ref="char:EOLhyphen"/>queror. The like policy uſed
+<hi>Achiſh</hi> King of <hi>Gath,</hi> when he purpoſed to carry up
+<hi>David</hi> in his Army againſt his Countrey-men. I need not ſay the caſe is much a like now, its eaſie to draw up the reſemblance, if God over-rule not matters, and ſecure us and our Religion; as he did for
+<hi>Iſrael,</hi> preventing <hi>David</hi> from comming up with the Armies of the Philiſtines, leaſt he ſhould have aſſiſted the uncircumciſed againſt the Church and people of God, and in purſuance of his own private intereſt miſerably have waſted his own Country: which no doubt ſo good a Prince abhor'd in his heart, chooſing rather to wait patiently upon God for a cleer peaceable Call, then to wade to the throne in the blood of Gods precious people.</p>
+            <p>A fourth conjecture is from the multitudes of diſcontent<g ref="char:EOLhyphen"/>ed ſpirits in the Land ready to imbrace a Forreiner, as the <hi>Tarentines</hi> imbraced <hi>Pyrrus,</hi> and the ten Tribes <hi>Jeroboam</hi> with his Calves from <hi>Egypt,</hi> in hope of eaſe of their Taxes. The good Lord preſerve his Goſpel and true Religion amongſt us, and chooſe ſuch Governors for us as may be men after his own heart as faithfull <hi>David</hi> was.</p>
+            <p>A fith ground of conjecture is from neighbour Preſidents; When God has let out the wolves upon the neighbour flocks of <hi>France,</hi> and
+<hi>Poland,</hi> and <hi>Germany,</hi> yea and <hi>Ireland,</hi> do we think all ſecure with us?</p>
+            <p>A ſixth is from the Impenitency of this Nation, their rejection of God, and meet applications to him in great faſting and prayer, and true humiliation and Reformation, that we might obtain his Counſel and Protection. For when a people ſtand it out with God to the utmoſt, what is more
+<pb n="6" facs="tcp:168789:4"/>likely then that God will deſtroy them to the utmoſt? I will not perſume to enlarge further but to beg our Excellency ſpee<g ref="char:EOLhyphen"/>dily to conſider what is to be done for your ſelf and for your Country, confident of your faithfulneſſe and tender care, things being ſo far gon as that it is almoſt impoſſible to pre<g ref="char:EOLhyphen"/>vent the common ruine: and the Lord God direct your heart thereunto, with Courage, Zeal, and reſolution againſt all dif<g ref="char:EOLhyphen"/>ficulties, which uſe to accompany men of high place. Build upon the rock not upon the ſand, for a houſe built upon the ſand, cannot outſtand the Tempeſt. How vaine were <hi>Iſraels</hi> ſhifts in this kind as the prophet <hi>Iſayah</hi> notes, <hi>chap.</hi>
+22? where we may ſee a fit preſident for our caſe: When a for<g ref="char:EOLhyphen"/>reine invaſion was at hand, they opened their Armories and magazins, &amp; prepared like wiſe men for the ſieg; and when they ſaw the breaches of the Citie of <hi>David,</hi> that they were many, they repaired their bulwarkes, ſcoured the trenches, built their Pallizadoes; gathered about the City the waters of the lower poole both for defence, and uſe of water in the ſieg; they numbred the houſes of <hi>Jeruſalem,</hi> to ſee which might be fortified, and thoſe houſes that were upon the walles they brake downe to make the city more impregnable. What fault was there in all this? none at all, but they left out that one thing that was more neceſſary then all theſe, as God tels them, <hi>But ye have not looked unto the Maker thereof, ſaith the Lord, neither had reſpect to him that faſhioned it long ago, and in that day did the Lord God of Hoſts call to weeping and to mourning, and to baldneſs and to girding with Sackcloth,</hi> (this was of more conſequence then fortifying and prepa<g ref="char:EOLhyphen"/>ring for the war, and they had a Call from heaven to it by the danger that was approaching) <hi>yet behold joy and gladneſs, ſlaying Oxen, and killing ſheep, eating fleſh, and drinking wine; Let us eat and drink for to morrow we ſhall die.</hi>
+            </p>
+            <p>Oh deſperat impenitency! What doth God conclude hereupon?
+<hi>Surely this iniquity ſhall not be purged from you till ye die, ſaith the Lord of Hoſts.</hi> Heer's now the like caſe; this people are banning one againſt another, they truſt to their wodden walls, and filling up of the houſe, and liſting of Regiments (for its lawfull to uſe the means) but in this day of <pb n="7" facs="tcp:168789:4"/>ſo great danger the Lord called for our chriſtian Armoury, mighty prayers and tears powerfull humiliation and faſting, and eſpecially true and unfeigned Repentance, and turning from thoſe crying ſins, that call in trouble upon us, and will irreſiſtibly and ſpeedily ruine all: but where's this to be found? dull ſottiſh ſtupid men! Surely, my Lord, I can tell you for a certain what will become of ſuch a people: Death, and ru<g ref="char:EOLhyphen"/>ine, and confuſion is at their gates: for its an infallible Note of wicked Rulers, and a wicked people, whom God will de<g ref="char:EOLhyphen"/>ſtroy, that they caſt off fear and reſtrain prayer before God.<note place="margin">Iob 15.4, 20, add 34.</note>
+            </p>
+            <p>Go to therefore quickly, and <hi>gather your ſelves together, yea gather together, O Nation, not deſired,</hi>
+               <note place="margin">Pſ.
+53.1. add 5.</note> 
+               <hi>before the decree bring forth, before the day paſs as the chaff, bafore the fierce anger of the Lord come upon you, before the day of the Lords anger come upon you. Seek ye the Lord all ye meek of the earth, which have wrought his Judgement, ſeek Righteouſneſs, ſeek meekneſs: it may be ye ſhall be hid in the day of the Lords an<g ref="char:EOLhyphen"/>ger.</hi>
+            </p>
+            <closer>I reſt, <salute>My Lord,</salute>
+               <signed>Your Excellencies In all humble Chriſtian Ob<g ref="char:EOLhyphen"/>ſervance and faithfulneſs. <hi>JOHN MA<g ref="char:V">Ʋ</g>DIT.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
